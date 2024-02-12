@@ -1,5 +1,5 @@
 # Adidas-Sales-Report📊
-To view full report select the file titled: "Maximizing Adidas Revenue Full Report". https://github.com/Nate374/Nathan_Musowoya-Adidas-Sales-Report/blob/main/Maximizing%20Adidas%20Revenue%20Full%20Report.pdf
+To view full report click this link: https://github.com/Nate374/Nathan_Musowoya-Adidas-Sales-Report/blob/main/Maximizing%20Adidas%20Revenue%20Full%20Report.pdf
 
 ![Screenshot 2024-02-12 072509](https://github.com/Nate374/Adidas-Sales-Report/assets/156354640/7b05ad11-21d3-4764-a172-07176489a162)
 
