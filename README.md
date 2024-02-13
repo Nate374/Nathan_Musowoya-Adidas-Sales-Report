@@ -15,5 +15,5 @@ To view full report click this link: https://github.com/Nate374/Nathan_Musowoya-
 
 **CONCLUSION:**
 
-Adidas' sales analysis demonstrates a robust market position with notable successes, yet also underscores the need for continuous development. To maintain its dominance in the competitive sportswear industry, Adidas should prioritize product innovation, refine marketing strategies, enhance its omnichannel presence, and emphasize sustainability. By adopting these measures and maintaining a customer-centric approach, Adidas can solidify its position as a global leader, delivering exceptional products and experiences to its diverse customer base.
+Adidas' sales analysis demonstrates a robust market position with notable successes, yet also underscores the need for continuous development. To maintain its dominance in the competitive sportswear industry, Adidas should prioritize product innovation, refine marketing strategies, enhance its omnichannel presence, and emphasize sustainability. By adopting these measures and maintaining a customer-centric approach, Adidas can solidify its position as a global leader, delivering exceptional products and experiences to its diverse customer base. Looking forward to more Anaalysis projects
 
